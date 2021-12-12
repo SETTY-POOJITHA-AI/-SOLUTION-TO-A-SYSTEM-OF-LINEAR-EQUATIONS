@@ -19,6 +19,7 @@ A=np.array([[1,-3],[3,1]])
 B=np.array([0,10])
 le=np.linalg.solve(A,B)
 print(le)
+
 ## Output:
 ![OUTPUT](./linear.PNG)
 ## Result: 
