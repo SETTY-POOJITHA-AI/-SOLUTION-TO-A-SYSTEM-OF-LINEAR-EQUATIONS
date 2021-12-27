@@ -15,10 +15,15 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 import numpy as np
+
 A=np.array([[1,-3],[3,1]])
+
 B=np.array([0,10])
+
 le=np.linalg.solve(A,B)
+
 print(le)
+
 ## Output:
 ![image](https://github.com/SETTY-POOJITHA-AI/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/8fce95cfd53b6ab7f462ef93e281fee7ea64e52c/ss1.jpg)
 
