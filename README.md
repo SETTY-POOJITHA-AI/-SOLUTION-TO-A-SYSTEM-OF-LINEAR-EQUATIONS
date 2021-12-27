@@ -19,9 +19,8 @@ A=np.array([[1,-3],[3,1]])
 B=np.array([0,10])
 le=np.linalg.solve(A,B)
 print(le)
-
 ## Output:
-![OUTPUT](./linear.PNG)
+![OUTPUT]
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program.
