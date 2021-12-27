@@ -20,7 +20,7 @@ B=np.array([0,10])
 le=np.linalg.solve(A,B)
 print(le)
 ## Output:
-![OUTPUT]
+![image](https://github.com/SETTY-POOJITHA-AI/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/blob/8fce95cfd53b6ab7f462ef93e281fee7ea64e52c/ss1.jpg)
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program.
